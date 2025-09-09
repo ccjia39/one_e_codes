@@ -1,0 +1,11 @@
+      
+      <GetStaInput>
+      
+       <Center>
+         <Position  x='0.0000000' y=' 0.0000000' z=' 0.0000' />
+         <Basisset file='/home/nico/Workspace/Progs/Coll1e/CPC_code/Example/basis_h' />
+         <Potential charge=' 1.0d0' exponent=' 0.0000000' />
+       </Center> 
+      
+      </GetStaInput>
+      

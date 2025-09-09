@@ -1,0 +1,22 @@
+
+<GetStaInput>
+
+ <Center>
+   <Position  x='0.0000000' y=' 0.0000000' z=' 0.0000' />
+   <Basisset file='dir/Example/basis_nitrogen' />
+   <Potential charge=' 3.0d0' exponent=' 0.0000000' />
+   <Potential charge='       0.084875' exponent='       0.381938' />
+   <Potential charge='       0.954229' exponent='       2.388077' />
+   <Potential charge='       0.967352' exponent='       6.951662' />
+   <Potential charge='       0.736366' exponent='      24.848263' />
+   <Potential charge='       0.488024' exponent='     135.524139' />
+   <Potential charge='       0.527663' exponent='       0.927357' />
+   <Potential charge='       0.007404' exponent='       0.263132' />
+   <Potential charge='       0.040900' exponent='       0.557558' />
+   <Potential charge='       0.040966' exponent='       1.241007' />
+   <Potential charge='      -0.015808' exponent='       6.284506' />
+   <Potential charge='      -0.029918' exponent='      16.045083' />
+   <Potential charge='      -0.028518' exponent='      79.814408' />    
+ </Center> 
+
+</GetStaInput>
